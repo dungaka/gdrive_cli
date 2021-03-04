@@ -18,8 +18,8 @@ import (
 
 )
 
-var ClientId = "367116221053-7n0vf5akeru7on6o2fjinrecpdoe99eg.apps.googleusercontent.com"
-var ClientSecret = "1qsNodXNaWq1mQuBjUjmvhoO"
+var ClientId = "140493672494-97kkml2443369vl02b7tvf16gv8u6sar.apps.googleusercontent.com"
+var ClientSecret = "9mrkhwml1K2Z04OmvaWxaM8F"
 const TokenFilename = "token_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
